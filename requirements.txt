@@ -1,0 +1,12 @@
+Django==2.0
+
+Pillow==5.0.0
+
+
+django-widget-tweaks
+
+django-crispy-forms
+
+django-cleanup
+
+django-ckeditor

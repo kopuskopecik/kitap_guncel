@@ -1,0 +1,2 @@
+python -m pip install --upgrade pip
+-m venv /path/to/new/virtual/environment
